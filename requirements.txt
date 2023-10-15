@@ -1,0 +1,11 @@
+scikit-learn
+numpy
+pandas
+scipy
+ensure
+matplotlib
+xgboost
+catboost
+lightgbm
+tqdm
+jinja2
