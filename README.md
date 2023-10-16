@@ -101,7 +101,9 @@ y_pred = trainer.best_estimator_.predict(X_test)
 ```
 ## Résultats : 
 ### Courbes d'apprentissage
-![Courbes d'apprentissage](./auto_learn/artefacts/learning_curves.png)
+![Courbes d'apprentissage](./artefacts/learning_curves.png)
+### Performances des modèles
+![Performance des modèles](./artefacts/performances.png)
 ## Licence
 Ce projet est sous licence MIT. Pour plus d'informations, veuillez consulter le fichier [MIT](./LICENSE).
 
