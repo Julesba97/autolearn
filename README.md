@@ -1,4 +1,4 @@
-# Auto-Learn
+# AutoLearn
 
 Le package `autolearn` est une bibliothèque d'apprentissage automatique conçue pour automatiser le processus d'apprentissage automatique. Son objectif principal est de simplifier et d'accélérer la création de modèles prédictifs tout en minimisant la quantité de code nécessaire. Spécialement conçu pour résoudre des problèmes de régression, il offre différentes stratégies dédiées à la préparation de données.
 
